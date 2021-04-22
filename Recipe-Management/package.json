@@ -1,0 +1,16 @@
+{
+  "name": "recipe-management",
+  "version": "1.0.0",
+  "description": "it is an open recipe management app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nishant",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
